@@ -1,4 +1,2 @@
-# Webpack5
-
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+# Домашнее задание к занятию "1. Рабочее окружение"
+[![Build status](https://ci.appveyor.com/api/projects/status/qlscvxnasu4v1hqt?svg=true)](https://ci.appveyor.com/project/mlarina790/destructuring-9n6oj)
